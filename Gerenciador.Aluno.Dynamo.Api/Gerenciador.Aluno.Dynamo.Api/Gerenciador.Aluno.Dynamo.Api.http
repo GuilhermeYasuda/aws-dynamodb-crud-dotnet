@@ -1,0 +1,6 @@
+@Gerenciador.Aluno.Dynamo.Api_HostAddress = http://localhost:5271
+
+GET {{Gerenciador.Aluno.Dynamo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
